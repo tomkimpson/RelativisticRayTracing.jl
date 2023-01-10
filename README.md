@@ -1,4 +1,4 @@
-# RelativisticRayTracing
+# RelativisticRayTracing.jl
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://tomkimpson.github.io/RelativisticRayTracing.jl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://tomkimpson.github.io/RelativisticRayTracing.jl/dev/)
